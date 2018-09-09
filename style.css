@@ -1,0 +1,35 @@
+body {
+    background-color: pink;
+}
+h1 {
+text-align: center;
+color: white;
+background-color: aqua;
+}
+
+img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+            transition:         transform .8s ease-in-out;
+  }
+  img:hover {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  
+}
+
+h2 {
+    text-align: center;
+    color:blueviolet;
+}
+
+.box{
+    padding-top: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+}
