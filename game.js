@@ -19,7 +19,7 @@ lossescore.text(losses);
 // console.log(losses);
 
 // $("#rubyImg").click(function(){
-    jewelNumbers = function () {
+jewelNumbers = function () {
     var ruby = Math.floor(Math.random() * 20) + 1 ;
     var emerald = Math.floor(Math.random() * 20) + 1 ;
     var diamond = Math.floor(Math.random() * 20) + 1 ;
